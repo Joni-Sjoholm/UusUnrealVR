@@ -1,9 +1,9 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\JoniS\\Documents\\Unreal Projects\\VRTest\\Plugins\\VRExpansionPlugin\\OpenXRExpansionPlugin\\Source\\OpenXRExpansionEditor\\OpenXRExpansionEditor.Build.cs",
-		"C:\\Users\\JoniS\\Documents\\Unreal Projects\\VRTest\\Plugins\\VRExpansionPlugin\\OpenXRExpansionPlugin\\Source\\OpenXRExpansionPlugin\\OpenXRExpansionPlugin.Build.cs",
-		"C:\\Users\\JoniS\\Documents\\Unreal Projects\\VRTest\\Plugins\\VRExpansionPlugin\\VRExpansionPlugin\\Source\\VRExpansionEditor\\VRExpansionEditor.Build.cs",
-		"C:\\Users\\JoniS\\Documents\\Unreal Projects\\VRTest\\Plugins\\VRExpansionPlugin\\VRExpansionPlugin\\Source\\VRExpansionPlugin\\VRExpansionPlugin.Build.cs"
+		"E:\\UnrealEatPenis\\UusUnrealVR\\VRTest\\Plugins\\VRExpansionPlugin\\OpenXRExpansionPlugin\\Source\\OpenXRExpansionEditor\\OpenXRExpansionEditor.Build.cs",
+		"E:\\UnrealEatPenis\\UusUnrealVR\\VRTest\\Plugins\\VRExpansionPlugin\\OpenXRExpansionPlugin\\Source\\OpenXRExpansionPlugin\\OpenXRExpansionPlugin.Build.cs",
+		"E:\\UnrealEatPenis\\UusUnrealVR\\VRTest\\Plugins\\VRExpansionPlugin\\VRExpansionPlugin\\Source\\VRExpansionEditor\\VRExpansionEditor.Build.cs",
+		"E:\\UnrealEatPenis\\UusUnrealVR\\VRTest\\Plugins\\VRExpansionPlugin\\VRExpansionPlugin\\Source\\VRExpansionPlugin\\VRExpansionPlugin.Build.cs"
 	],
 	"EngineVersion": "5.2.1"
 }
